@@ -1,0 +1,5 @@
+#In order for the program to work you will need to put your api key in here along with the userId of the bot
+#to do so replace the # signs in following the token and the userId
+#read the README in the root folder to find out where to find this info if you are unsure
+token:###########################################################
+userId:##################
